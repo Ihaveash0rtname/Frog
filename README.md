@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihaveash0rtnamefordiscord&layout=compact&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
 
 # Languages
-![](https://skillicons.dev/icons?i=lua,py,octave,cpp,html,css,js)
+![](https://skillicons.dev/icons?i=lua,cs)
 
 # Social
-![](https://dcbadge.vercel.app/api/shield/699092961308180511?style=flat)
+![](https://dcbadge.vercel.app/api/shield/716478565222318161?style=flat)
 
 ![](https://komarev.com/ghpvc/?username=Ihaveash0rtnamefordiscord&color=39D353)
 
