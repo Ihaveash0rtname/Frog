@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/0zBug/0zBug/main/bug_spin_transparent.gif)
+![](https://media.tenor.com/tS4120QBuugAAAAi/frog-spin-frog.gif)
 
 # Skills
 - Programming
